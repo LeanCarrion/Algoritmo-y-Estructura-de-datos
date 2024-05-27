@@ -7,3 +7,10 @@ Los temas que se tratan son:
       *Con cantidad desconocida de veces Estructura Mientras (WHILE)
       *Con cantidad desconocida de veces Estructura Repetir hasta (REPEAT UNTIL)
       *Estructura de Selección Múltiple (CASE)
+      *Procedimientos y Funciones
+      *Arreglos Unidireccionales
+      *Arreglos Bidireccionales
+      *Archivos
+-----------------------------------------------------------------
+Para el tp Se aplica todo los temas combinados
+
