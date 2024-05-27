@@ -11,6 +11,3 @@ Los temas que se tratan son:
       *Arreglos Unidireccionales
       *Arreglos Bidireccionales
       *Archivos
------------------------------------------------------------------
-Para el tp Se aplica todo los temas combinados
-
